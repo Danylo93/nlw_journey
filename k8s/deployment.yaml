@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: api-journey
-          image: danielrodriguess/nlw.journey.api:94faf07
+          image: dan1993/nlw.journey.api:9ffcced
           env:
           - name: JOURNEY_DATABASE_USER
             valueFrom:
