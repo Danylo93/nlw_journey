@@ -2,7 +2,7 @@ replicaCount: 10
 image:
   repository: dan1993/nlw.journey.api
   pullPolicy: IfNotPresent
-  tag: d81fc6a
+  tag: b53324d
   containerPort: 8080
 imagePullSecrets: []
 nameOverride: ''
